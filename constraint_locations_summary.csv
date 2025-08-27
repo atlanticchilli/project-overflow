@@ -1,0 +1,62 @@
+main_location,voltage_kv,route_codes,constraint_count
+Bramford 132kV,['132'],"['EEPB  No.2', 'EEPK  No. 1', 'PI  No.1', 'EEPK  No. 2', 'PI  No.4']",9
+Lawford 132kV,['132'],"['PJ', 'PEC  No.3', 'PYA  No.2', 'PEC  No.1', 'PYA  No.1']",7
+ARBURY GRID 132/33kV,['33'],"['PT No1.', 'PT No.2', 'PMK2', 'PMK1']",6
+HISTON GRID 132/33kV,['33'],[],6
+Norwich Main 132kV,['132'],[],6
+Trowse Grid 132kV,['132'],[],6
+PETERBOROUGH CENTRAL 132/33kV,['33'],[],5
+Hempton Grid 132/33kV,['33'],[],5
+Walpole 132kV,['132'],"['PLG route no.1', 'HB route no.2', 'HB route no.1', 'PLG route no.2']",5
+Sall Grid 132kV,['132'],[],4
+MARCH GRID 132/33kV,['33'],[],4
+BURWELL MAIN GRID 132kV,['132'],[],4
+Sall Grid 132/33kV,['33'],[],4
+Thetford Grid 132/33kV,['33'],[],3
+Ilmer Grid,['Unknown'],['AI route'],3
+Thorpe Grid 132/33kV,['33'],[],3
+BURWELL LOCAL GRID 132/33kV,['33'],[],3
+Wickham Market Grid  132/33kV,['33'],[],3
+LITTLE BARFORD 132/33kV,['33'],[],3
+King's Lynn Grid 132/33kV,['33'],[],3
+Ilmer Grid 132/33kV,['33'],[],3
+Norwich Main,['Unknown'],[],3
+Halesworth Primary 33/11kV,['11'],[],3
+Bury Grid 132/33kV,['33'],[],3
+Halesworth Grid  132/33kV,['33'],[],3
+HUNTINGDON GRID 132/33kV,['33'],[],3
+Eye Primary 33kV,['33'],[],3
+EATON SOCON GRID 132kV,['132'],['PFZ route'],3
+Diss Grid 132/33kV,['33'],[],3
+Thetford Grid 33kV,['33'],[],2
+Thorpe Grid 33kV,['33'],[],2
+Thowse Grid 132/33kV,['33'],[],2
+DOCK RD PRIMARY 11kV,['11'],[],2
+WALPOLE GIS 132kV,['132'],['PCCB route'],2
+Stowmarket Grid  132/33kV,['33'],[],2
+British Sugar 33kV,['33'],[],2
+LANDBEACH PRIMARY 33/11kV,['11'],[],2
+Clacton Grid 132/33kV GT2,['33'],[],1
+Clacton Grid 132/33kV,['33'],[],1
+Trowse Grid 132/33kV,['33'],[],1
+Worstead,['Unknown'],[],1
+Worstead Primary,['Unknown'],[],1
+Clacton Grid 132/33kV GT1,['33'],[],1
+Thornal Solar Farm,['Unknown'],[],1
+Wickham Market 33kV,['33'],[],1
+Scottow Primary 33kV,['33'],[],1
+Stowmarket Grid 132/33kV,['33'],[],1
+Spixworth Road Solar Farm,['Unknown'],[],1
+Snettisham Primary 33kV,['33'],[],1
+KIMBOLTON PRIMARY 33/11kV,['11'],[],1
+Scottoe Est Solar Farm,['Unknown'],[],1
+Sall Grid – Sprowston Primary Sum Constraint,['Unknown'],[],1
+Sall Grid – Sprowston 2,['Unknown'],[],1
+Clacton Grid 132/33kV Sum,['33'],[],1
+DOCK RD PRIMARY 11kV Sum Constraint,['11'],[],1
+PETERBOROUGH  CENTRAL 132/33kV,['33'],[],1
+OHL between tee Perry Primary/Little Barford & tee to Manor Farm/Kimbolton Primary (N constraint,['Unknown'],['N constraint - Derived measurement'],1
+OHL between tee  RAF Alconbury Primary/Huntingdon Grid & Abbey Fm P70 (after Station Road) (N constraint,['Unknown'],"['N constraint - Derived measurement', 'after Station Road']",1
+North Walsham,['Unknown'],[],1
+Earlham,['Unknown'],[],1
+Worstead Primary 33kV,['33'],[],1

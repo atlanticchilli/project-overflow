@@ -1,0 +1,12 @@
+constraint_description,constraint_type,main_location,secondary_location,matched_site,latitude,longitude,latitude_2,longitude_2,geolocation_source,geolocation_method
+Walpole 132kV - Kings Lynn Pwr Stn 3 / Palm Paper 6 (PLG route no.2),power_station,WALPOLE,,,,,,,,
+OHL between tee  RAF Alconbury Primary/Huntingdon Grid & Abbey Fm P70 (after Station Road) (N constraint - Derived measurement),transmission_circuit,OHL BETWEEN,RAF ALCONBURY PRIMARY/HUNTINGDON GRID & ABBEY FM P70,,,,,,,
+Worstead Primary - North Walsham Sum Constraint,aggregate,WORSTEAD,,,,,,,,
+Worstead -Whroxham Derived Measurement,substation,WORSTEAD -WHROXHAM DERIVED MEASUREMENT,,,,,,,,
+LANDBEACH PRIMARY 33/11kV -T2,substation,LANDBEACH,,,,,,,,
+Trowse Grid 132kV -  Gt Yarmouth PowerStn Tee Yarmouth Grid 1,transmission_circuit,GT YARMOUTH POWERSTN,YARMOUTH GRID 1,,,,52.5916026624618,1.73095825038195,,transmission_line
+Walpole 132kV - Kings Lynn Pwr Stn OHL Sum Constraint,aggregate,WALPOLE,,,,,,,,
+OHL between tee Perry Primary/Little Barford & tee to Manor Farm/Kimbolton Primary (N constraint - Derived measurement),transmission_circuit,OHL BETWEEN,PERRY PRIMARY/LITTLE BARFORD &,,,,52.2073460897954,-0.272003403194028,,transmission_line
+LANDBEACH PRIMARY 33/11kV -T1,substation,LANDBEACH,,,,,,,,
+Bramford 132kV - RUMBURGH SW STN tee WICKAM MARKET GRID 2 (EEPB  No.2),transmission_circuit,RUMBURGH SW STN,WICKAM MARKET GRID 2,,,,52.1874930946002,1.36753668530461,,transmission_line
+KIMBOLTON PRIMARY 33/11kV,substation,KIMBOLTON,,,,,,,,
